@@ -1,1 +1,2 @@
 # ConcertTicketManagement
+This repository provides a sample implementation of a microservices-based architecture using .NET. It demonstrates a working example of asynchronous communication between services using RabbitMQ as a message broker. The solution showcases key microservices concepts such as service separation, API Gateway routing, internal authentication using JWTs, and event-driven communication.
